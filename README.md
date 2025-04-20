@@ -9,7 +9,7 @@
 I am a technologist in software analysis and development, seeking a job opportunity that allows me to put into practice everything I have learned and grow professionally.
 * **I am interested in Web development, and digital marketing**
   
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
   - React js
   - Tailwind css
     
