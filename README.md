@@ -19,7 +19,7 @@ I am a technologist in software analysis and development, seeking a job opportun
   
 - Outside tech, ⚽ I love to play football, 🎵 listen to music, and 🎮 play videogames.
   
-- 📫 How to reach me **s.stevenanalyst@gmail.com**
+- 📫 How to reach me --> **s.stevenanalyst@gmail.com**
 
 <h3 align="left">⚡Connect with me:</h3>
 <p align="left">
