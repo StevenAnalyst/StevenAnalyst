@@ -4,7 +4,7 @@
 
 <img align="right" width=300px alt="Hollow" src="https://media.tenor.com/CM9I574M3C4AAAAj/halloween-hollow-knight.gif" /><br>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 I am a technologist in software analysis and development, seeking a job opportunity that allows me to put into practice everything I have learned and grow professionally.
 * **I am interested in Web development, and digital marketing**
