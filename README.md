@@ -15,7 +15,7 @@ I am a technologist in software analysis and development, seeking a job opportun
     
 - 👯 I’m looking forward to collaborate on open source projects.
   
-- ✔ Ask me about anything
+- ✔ Ask me about anything.
   
 - Outside tech, ⚽ I love to play football, 🎵 listen to music, and 🎮 play videogames.
   
