@@ -2,8 +2,6 @@
 <h3 align="center">Junior Full Stack developer from Colombia</h3>
 
 
-<img align="right" width=300px alt="Hollow" src="https://media.tenor.com/CM9I574M3C4AAAAj/halloween-hollow-knight.gif" /><br>
-
 ***About me***
 
 I am a technologist in software analysis and development, seeking a job opportunity that allows me to put into practice everything I have learned and grow professionally.
